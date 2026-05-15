@@ -1,5 +1,3 @@
-# Data Analytics Project README
-
 ## customer_behavior_analysis
 
 **End-to-End Data Analytics Project using Python, PostgreSQL & Power BI**
